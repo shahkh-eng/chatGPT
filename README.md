@@ -7,6 +7,7 @@ Introduction of AI and How OpenAI's ChatGPT can help us develop Python applicati
 ## Authors
 
 - [@khurram javed](https://github.com/shahkh-eng/)
+- [LinkedIn Article](https://www.linkedin.com/pulse/introduction-ai-how-openais-chatgpt-can-help-us-built-khurram-javed?trk=public_profile_article_view)
 
     
 ## Features
